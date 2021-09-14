@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сalculator", "Сalculator\Сalculator.csproj", "{132FB52C-DA1D-46C1-A8BC-086120BB4ADB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibTemp", "LibTemp\LibTemp.csproj", "{6CBDA904-CB6B-4AA1-8F6E-898F36402323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcLib", "CalcLib\CalcLib.csproj", "{125C879A-3000-4BDB-A07B-794AD7830496}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{132FB52C-DA1D-46C1-A8BC-086120BB4ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{132FB52C-DA1D-46C1-A8BC-086120BB4ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{132FB52C-DA1D-46C1-A8BC-086120BB4ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CBDA904-CB6B-4AA1-8F6E-898F36402323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBDA904-CB6B-4AA1-8F6E-898F36402323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CBDA904-CB6B-4AA1-8F6E-898F36402323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CBDA904-CB6B-4AA1-8F6E-898F36402323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{125C879A-3000-4BDB-A07B-794AD7830496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125C879A-3000-4BDB-A07B-794AD7830496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125C879A-3000-4BDB-A07B-794AD7830496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125C879A-3000-4BDB-A07B-794AD7830496}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
