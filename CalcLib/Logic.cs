@@ -413,6 +413,11 @@ namespace CalcLib
             }
             else
             {
+                
+                if (IO[IO.Length-1] == '.')
+                {
+                    _isDotPosible = true;
+                }
                 IO = IO.Remove(IO.Length - 1);
             }
         }
